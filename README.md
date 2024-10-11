@@ -8,6 +8,8 @@ Example.com mengintegrasikan teknologi text-to-speech yang kuat, memungkinkan pe
 ### Antarmuka Pengguna yang Ramah
 Antarmuka Example.com dirancang dengan mempertimbangkan kemudahan penggunaan. Aktifkan fitur TTS dengan beberapa klik saja, dan navigasikan melalui dokumen sambil mendengarkan. Menu dan pengaturan terkait TTS mudah diakses dan diatur.
 
+linguvo.io
+
 ### Kinerja TTS yang Halus
 Proses konversi teks ke suara di Example.com sangat responsif dan minim gangguan. Suara yang dihasilkan sangat alami, membuat pengalaman mendengarkan dokumen lebih nyaman. Fitur ini sangat berguna bagi mereka yang mengalami kesulitan membaca atau ingin multitasking.
 
